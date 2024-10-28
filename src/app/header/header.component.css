@@ -1,0 +1,19 @@
+.w-50{
+  width: 50%;
+}
+.div-1{
+  background-color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div-2{
+  background-color: lightcoral;
+}
+li{
+  list-style: none;
+  padding: 15px;
+}
+ul{
+  display: flex;
+}
